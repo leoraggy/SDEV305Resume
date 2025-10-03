@@ -1,6 +1,6 @@
 main {
   margin: auto;
-  width: 60%;
+  max-width: 1000px;
   background-color: white;
   padding: 2rem;
 }

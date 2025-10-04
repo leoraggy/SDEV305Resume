@@ -36,3 +36,13 @@ img {
 .bold-words {
   font-weight: 600;
 }
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.right {
+  display: flex; /* allows for icon spacing */
+}
